@@ -1,0 +1,20 @@
+.card-body{
+    background-color: aqua;
+}
+.Menu{
+    background-color: rgb(215, 187, 235);
+    font-size: x-large;
+}
+.addclub{
+    background-color: rgb(207, 132, 179);
+    font-size: x-large;
+}
+.mt-4{
+    background-color: rgb(184, 181, 133);
+}
+.table-bordered{
+    background-color: rgb(26, 190, 231);
+}
+#club-table-body{
+    background-color: rgb(197, 203, 206);
+}
